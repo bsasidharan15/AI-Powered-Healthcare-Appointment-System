@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+langchain
+langchain_ollama
+reportlab
